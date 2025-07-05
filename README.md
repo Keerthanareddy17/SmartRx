@@ -1,6 +1,9 @@
 # 💊 SmartRx – AI Prescription Reader
 
-SmartRx is a lightweight Streamlit-based AI tool that helps users **extract, understand, and translate information from medical prescriptions**. Whether it’s handwritten or printed, we try to pull out key medical details and summarize it in a way that’s easy to read and share.......and also translate it to your favourite language :)  
+SmartRx is a lightweight Streamlit-based AI tool that helps users **extract, understand, and translate information from medical prescriptions**. 
+
+Whether it’s handwritten or printed, we try to pull out key medical details and summarize it in a way that’s easy to read and share.......and also translate it to your favourite language :)  
+
 Perfect for patients, caregivers, or pharmacists who want clarity on what’s written on a prescription.
 
 ---
@@ -35,6 +38,9 @@ Here’s the step-by-step idea:
 5. The summary can be translated to several Indian and global languages using GPT itself.
 6. The translated message can be sent via WhatsApp automation using `pywhatkit`.
 
+<img width="622" alt="Screenshot 2025-07-05 at 22 02 29" src="https://github.com/user-attachments/assets/a516da6e-a77c-4986-89c2-a5f3c59522c4" />
+
+
 ---
 
 ## 🧰 Tech Stack
@@ -47,6 +53,16 @@ Here’s the step-by-step idea:
 - **Data Handling**: `pandas`, `json`, `re`
 
 ---
+## 📸 Snapshots of SmartRx
+
+![output1](https://github.com/user-attachments/assets/10ccc19f-c908-4129-a338-1b2295b4eacd)
+
+
+
+![output2](https://github.com/user-attachments/assets/d8709dc2-add4-40d0-a464-bdbe72f36ed6)
+
+
+
 
 This is just the starting point. Here’s what we (or you!) can build next:
 
