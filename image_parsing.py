@@ -1,21 +1,14 @@
 import base64
 import os
 from dotenv import load_dotenv
-from openai import AzureOpenAI
+from openai import OpenAI
 
 # Load env vars
 load_dotenv()
 api_key = os.getenv("subscription_key")
-api_base = os.getenv("endpoint")
-api_version = os.getenv("api_version")
-deployment_name = os.getenv("deployment")
 
-# Initialize Azure OpenAI client
-client = AzureOpenAI(
-    api_key=api_key,
-    api_version=api_version,
-    azure_endpoint=api_base
-)
+# Initialize OpenAI client
+client = AzureOpenAI(api_key=api_key)
 
 def image_to_base64(image_bytes):
     """Convert image bytes to base64 string."""
