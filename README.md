@@ -78,5 +78,5 @@ This is just the starting point. Here’s what we (or you!) can build next:
 
 If you have ideas, questions, or want to build on this — feel free to connect!
 
-🐙 Linkedin : [Katasani Keerthana Reddy](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)**  
+🐙 Linkedin : [Katasani Keerthana Reddy](https://www.linkedin.com/in/keerthana-reddy-katasani-b07238268/)
 📧 Email: katasanikeerthanareddy@gmail.com  
